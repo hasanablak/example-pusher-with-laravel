@@ -49,7 +49,7 @@ Projenizi klonladıktan sonra, aşağıdaki adımları takip ederek kurulum yapa
 
 ### 1\. Depoyu Klonlayın
 
-        `git clone https://github.com/kullanici/chat-app.git cd chat-app`
+        `git clone https://github.com/hasanablak/example-pusher-with-laravel.git cd chat-app`
     
 
 ### 2\. Composer Paketlerini Kurun
